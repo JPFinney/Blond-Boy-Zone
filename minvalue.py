@@ -8,7 +8,7 @@ while(True):
 	elif(x):
 		high = max(x)
 		low = min(x)
-		print("The one to rule them all is: " + str(high))
+		print("The weakest among you seems to be: " + str(low))
 		break
 	else:
 		print("Tell me your number, puny human. Whenever you are finished simly press eter without typing a number!")
